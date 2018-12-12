@@ -1,0 +1,72 @@
+div { text-align: left;
+
+}
+body {
+  background-image: url("images/vera_headshot.jpg");
+  background-size: cover;
+  color: black;
+
+
+}
+
+
+.nav {
+  position: fixed;
+  top: 78px;
+  left: 20px;
+  width: 100%;
+  padding-top: 25px;
+  padding-bottom: 16px;
+}
+
+div {
+  margin: 0;
+}
+
+
+#name {
+  color: snow;
+  font-size: 45px;
+    font-family: serif;
+}
+
+#title {
+      color: snow;
+      font-size: 30px;
+  font-family: serif;
+  }
+
+
+#link a {
+  font-size: 17px;
+  font-family: serif;
+  color: snow;
+
+}
+#body1{
+  font-size: 15px;
+  color: snow;
+  font-family: serif;
+  padding: 0px;
+  margin: 12px;
+  text-align: left;
+
+
+}
+#body2{
+  font-size: 15px;
+  color: snow;
+  font-family: serif;
+  padding: 32px;
+  margin: 16px;
+  text-align: left;
+  background-color: black;
+
+}
+
+#body3{
+  font-size: 17px;
+  color: snow;
+  font-family: serif;
+
+}
